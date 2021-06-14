@@ -1,0 +1,1 @@
+Siguiendo el siguiente modelo planteado de Ecommerce: Crear un proyecto con node y sequelize que genero los modelos y migraciones en una base de dato de nombre: udaecom

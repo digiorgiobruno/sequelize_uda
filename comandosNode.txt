@@ -1,0 +1,13 @@
+// instalar node
+npm init -y 
+//express
+npm i express
+//Dependencia para variables de entorno: ayuda a esconder variables de entorno
+npm i dotenv
+// instalar sequelize
+npm i sequelize mysql2
+//instalamos a nivel de desarrollo --D
+npm i sequelize-cli --D
+
+//migrar modelos y crear tablas
+sequelize db:migrate
